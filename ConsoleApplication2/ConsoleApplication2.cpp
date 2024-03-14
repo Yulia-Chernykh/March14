@@ -4,4 +4,5 @@ int main()
 {
     std::cout << "Hello World!\n";
     int a, b, c;
+    a = b = c = 8;
 }
